@@ -41,7 +41,7 @@
       "source": {
         "type": "git",
         "url": "https://github.com/brunokktro/agent-dashboard.git",
-        "ref": "release"
+        "ref": "8b52af6e2ba270c078fa962907ae07449f0f946c"
       },
       "author": {
         "name": "brunokktro",
